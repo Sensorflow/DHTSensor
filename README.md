@@ -1,0 +1,2 @@
+# DHTSensor
+DTH sensor support
